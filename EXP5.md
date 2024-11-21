@@ -1,8 +1,8 @@
-# ARMSTRONG NUMBER
+# EXP NO : 5 BINARY SEARCH
 ### Date : 13-09-2024
 ### Register Number : 212221040070
 ### AIM: 
-Write a python program to check the number is Armstrong number or not and inspect for failures.
+Write a python program for Binary Search and inspect for failures.
 
 ### Algorithm:
 
@@ -105,5 +105,5 @@ Enter a valid input!
 ```
 
 ### Result:
-Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
+Thus, the python program of binary search is implemented and the output is verified successfully. 
 
