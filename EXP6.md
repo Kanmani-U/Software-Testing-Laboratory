@@ -1,10 +1,9 @@
-###  Date : 20-09-2024
-### Register Number : 212221040070
+
 
 # Ex.No: 6 To check whether the string is Palindrome and generate test cases.
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 20-09-2024                                                                            
+### REGISTER NUMBER : 212221040070 
 ### AIM: 
 Write a Python program to check whether the string is Palindrome and generate test cases. 
 ### Algorithm:
